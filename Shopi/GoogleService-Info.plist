@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>60005337007-aqk1p1dtfrt6p8pme81adsa6drt0v0e3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.60005337007-aqk1p1dtfrt6p8pme81adsa6drt0v0e3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAMvgfUogUefCCMx8Vju4mF-NGZVGxK2t8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>60005337007</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Praduyt.Shopi</string>
+	<key>PROJECT_ID</key>
+	<string>shopi-5be56</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shopi-5be56.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:60005337007:ios:130791cfe9439dad67915a</string>
+	<key>DATABASE_URL</key>
+	<string>https://shopi-5be56.firebaseio.com</string>
+</dict>
+</plist>

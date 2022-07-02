@@ -1,0 +1,6 @@
+module Pods_Shopi {
+  umbrella header "Pods-Shopi-umbrella.h"
+
+  export *
+  module * { export * }
+}
